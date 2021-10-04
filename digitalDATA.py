@@ -1,1 +1,1 @@
-print("Somos grupo digitalDATA")
+print("Somos el grupo digitalDATA")
